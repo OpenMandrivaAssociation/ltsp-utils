@@ -1,7 +1,7 @@
 Summary:   Linux Terminal Server Project (ltsp.org) utilities
 Name:      ltsp-utils
 Version:   0.25
-Release:   %mkrel 2
+Release:   %mkrel 3
 License:   GPL
 URL:       http://www.ltsp.org
 Group:     System/Servers
