@@ -1,7 +1,7 @@
 Summary:   Linux Terminal Server Project (ltsp.org) utilities
 Name:      ltsp-utils
 Version:   0.25
-Release:   %mkrel 3
+Release:   %mkrel 2
 License:   GPL
 URL:       http://www.ltsp.org
 Group:     System/Servers
@@ -42,3 +42,15 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/ltspinfo
 %{_sbindir}/ltspadmin
 %{_sbindir}/ltspcfg
+
+
+%changelog
+* Mon Sep 14 2009 Thierry Vignaud <tvignaud@mandriva.com> 0.25-2mdv2010.0
++ Revision: 439612
+- rebuild
+
+* Thu Jan 15 2009 Jérôme Soyer <saispo@mandriva.org> 0.25-1mdv2009.1
++ Revision: 329779
+- import ltsp-utils
+
+
