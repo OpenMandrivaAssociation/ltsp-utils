@@ -3,7 +3,7 @@ Name:      ltsp-utils
 Version:   0.25
 Release:   3
 License:   GPL
-URL:       http://www.ltsp.org
+URL:       https://www.ltsp.org
 Group:     System/Servers
 Source:    http://ltsp.mirrors.tds.net/pub/ltsp/utils/%{name}-%{version}-0.tgz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
